@@ -16,6 +16,9 @@ Create a `.env` file in the root of your project and add the following:
 ```sh
 NEXT_PUBLIC_API_URL=http://localhost:5000/api
 ```
+The backend service is running at `http://localhost:5000/api`.
+
+Backend GitHub Repository: [Backend Project Management Dashboard](https://github.com/jaberamin9/backend-project-management-dashboard/tree/main)
 
 ## Step 3: Run the Development Server
 

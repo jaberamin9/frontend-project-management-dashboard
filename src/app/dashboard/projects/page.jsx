@@ -64,7 +64,7 @@ export default function Projects() {
         } else {
             getProjects(`/projects?search=${filters.search}&limit=${filters.limit}&page=${filters.page}&sortBy=${filters.sortBy}&order=${filters.order}&status=${filters.status}`);
         }
-    }, [filters]);
+    }, [filters, user]);
 
     const projectViewColumns = [
         { label: "SI", key: "si", className: "w-[100px] font-medium text-white", render: (_, idx) => Number(filters.limit) * (data?.currentPage - 1 || 0) + idx + 1 },

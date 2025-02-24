@@ -1,5 +1,12 @@
 # How to Run a Next.js Project
 
+## Prerequisites
+
+Before running the Next.js project, ensure you have the following installed on your system:
+
+- [Node.js](https://nodejs.org/) (Recommended: LTS version)
+- [npm](https://www.npmjs.com/) 
+
 
 ## Step 1: Install Dependencies
 
@@ -30,3 +37,9 @@ npm run dev
 
 The project will be available at [http://localhost:3000](http://localhost:3000).
 
+
+#Admin Account:
+```sh
+Email: jaberamin9@gmail.com
+Password: 123456
+```

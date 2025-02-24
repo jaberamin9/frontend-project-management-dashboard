@@ -35,7 +35,7 @@ Start the Next.js development server with:
 npm run dev
 ```
 
-The project will be available at [http://localhost:3000](http://localhost:3000).
+The project will be available at [http://localhost:3000/auth/sign-in](http://localhost:3000/auth/sign-in).
 
 
 # Admin Account:
